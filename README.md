@@ -24,5 +24,5 @@
 spring.datasource.url = datasource_url
 spring.datasource.username = datasource_username
 spring.datasource.password = ENC(密文)
-jasypt.encryptor.password=e9fbdb2d3b21
+jasypt.encryptor.password=和命令里*password*的值一样
  ```
